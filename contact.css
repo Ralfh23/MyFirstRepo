@@ -1,0 +1,41 @@
+body{
+    background-color: lavender
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+    margin: 0 auto;
+    gap: 10px;
+}
+input, select, textarea{
+    width: 100%;
+    padding: 5px;
+    font-size: 15px;
+    box-sizing: border-box;
+    border: solid black 1px;
+    border-radius: 5px;
+}
+button{
+    font-size: 15px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(0, 163, 228);
+    border: solid  rgb(13, 177, 241) 1px;
+    border-radius: 5px;
+    transition: background-color 0.2s ease;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgba(30, 183, 243, 0.89);
+}
+button{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+ul{
+    text-align: left;
+}

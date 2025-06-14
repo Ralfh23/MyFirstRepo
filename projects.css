@@ -1,0 +1,24 @@
+body{
+    background-color: lavender;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+table{
+    border: 3px solid black;
+    margin: 30px;
+}
+td{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 15px;
+}
+th{
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+ul{
+    text-align: left;
+}

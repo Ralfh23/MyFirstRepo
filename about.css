@@ -1,0 +1,18 @@
+body{
+    background-color: lavender;
+    text-align: center;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+img{
+    border: solid black 1px;
+    border-radius: 50%;
+}
+ul{
+    text-align: left;
+}
